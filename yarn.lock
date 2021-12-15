@@ -1068,11 +1068,6 @@
     fs-extra "^5.0.0"
     rss "^1.2.2"
 
-"@vuepress-yard/vuepress-plugin-window@^1.0.10":
-  version "1.0.10"
-  resolved "https://registry.nlark.com/@vuepress-yard/vuepress-plugin-window/download/@vuepress-yard/vuepress-plugin-window-1.0.10.tgz#8ae3507136855866a6c26eb20bf8334fc0f1a9b3"
-  integrity sha1-iuNQcTaFWGamwm6yC/gzT8DxqbM=
-
 "@vuepress/core@1.8.2":
   version "1.8.2"
   resolved "https://registry.npmmirror.com/@vuepress/core/download/@vuepress/core-1.8.2.tgz?cache=0&sync_timestamp=1635479440717&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2F%40vuepress%2Fcore%2Fdownload%2F%40vuepress%2Fcore-1.8.2.tgz#4f5bafc894691bfea4146294a582a129483daf2a"
@@ -8514,8 +8509,8 @@ vuepress-theme-reco@1.2.2:
 
 vuepress@^1.8.2:
   version "1.8.2"
-  resolved "https://registry.npmmirror.com/vuepress/download/vuepress-1.8.2.tgz#97e8bf979630611fc7b621fc4cc35b798ee5e847"
-  integrity sha1-l+i/l5YwYR/HtiH8TMNbeY7l6Ec=
+  resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-1.8.2.tgz#97e8bf979630611fc7b621fc4cc35b798ee5e847"
+  integrity sha512-BU1lUDwsA3ghf7a9ga4dsf0iTc++Z/l7BR1kUagHWVBHw7HNRgRDfAZBDDQXhllMILVToIxaTifpne9mSi94OA==
   dependencies:
     "@vuepress/core" "1.8.2"
     "@vuepress/theme-default" "1.8.2"
