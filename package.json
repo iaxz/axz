@@ -27,6 +27,6 @@
 		"vuepress-plugin-reading-progress": "^1.0.10",
 		"vuepress-plugin-sitemap": "2.3.0",
 		"vuepress-theme-reco": "1.2.2",
-		"whatwg-fetch": "3.0.0"
+		"whatwg-fetch": "3.6.2"
 	}
 }
