@@ -4,7 +4,7 @@ const sidebar = require('./config/sidebar/')
 const plugins = require('./config/plugins/')
 
 module.exports = {
-    // dest: 'gb-pages',//打包目录
+    // dest: 'pages',//打包目录
     base: '/axz/',
     port: '80',
     title: "axz",

@@ -11,7 +11,7 @@ npm run docs:build
 cd docs/.vuepress/dist/
 
 # 如果是发布到自定义域名
-# echo 'www.axz.xz.cn' > CNAME
+# echo 'www.example.com' > CNAME
 
 git init
 git add -A
@@ -29,7 +29,7 @@ cd ..
 #git remote add origin git@github.com:iaxz/axz.git
 git add .
 git commit -m 'update docs'
-git push origin master
+git push origin main
 
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
