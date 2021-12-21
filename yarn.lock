@@ -1068,11 +1068,6 @@
     fs-extra "^5.0.0"
     rss "^1.2.2"
 
-"@vuepress-yard/vuepress-plugin-window@^1.0.10":
-  version "1.0.10"
-  resolved "https://registry.nlark.com/@vuepress-yard/vuepress-plugin-window/download/@vuepress-yard/vuepress-plugin-window-1.0.10.tgz#8ae3507136855866a6c26eb20bf8334fc0f1a9b3"
-  integrity sha1-iuNQcTaFWGamwm6yC/gzT8DxqbM=
-
 "@vuepress/core@1.8.2":
   version "1.8.2"
   resolved "https://registry.npmmirror.com/@vuepress/core/download/@vuepress/core-1.8.2.tgz?cache=0&sync_timestamp=1635479440717&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2F%40vuepress%2Fcore%2Fdownload%2F%40vuepress%2Fcore-1.8.2.tgz#4f5bafc894691bfea4146294a582a129483daf2a"
@@ -1153,10 +1148,10 @@
   dependencies:
     vuejs-paginate "^2.1.0"
 
-"@vuepress/plugin-google-analytics@1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-google-analytics/-/plugin-google-analytics-1.2.0.tgz#54555fd14f01a032c5acff04ecbbe0911577d7d0"
-  integrity sha512-0zol5D4Efb5GKel7ADO/s65MLtKSLnOEGkeWzuipkWomSQPzP7TJ3+/RcYBnGdyBFHd1BSpTUHGK0b/IGwM3UA==
+"@vuepress/plugin-google-analytics@1.8.3":
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-google-analytics/-/plugin-google-analytics-1.8.3.tgz#4559b118713ff1936d05814ac18708a9323665a8"
+  integrity sha512-tnEBOiuDh2XxJMD3PO1WdLzvqxcNgKIiEIcn6Uf4oYGwIEjBXQFr/te0IyCWLsoPU5CjoUb3NBPd+qn7E4wxCA==
 
 "@vuepress/plugin-last-updated@1.8.2":
   version "1.8.2"
